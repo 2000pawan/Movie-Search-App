@@ -29,3 +29,4 @@ if search_query:
             st.write(f"Year: {movie['Year']}")
     else:
         st.error("No movies found. Try another search!")
+st.write("Developed by @ Pawan Yadav")
