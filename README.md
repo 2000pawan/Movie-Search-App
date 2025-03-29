@@ -13,7 +13,7 @@ The **Movie Search App** is a simple **Streamlit** web application that allows u
 ## 📦 Installation
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/2000pawan/Movie-Search-App/
+git clone https://github.com/2000pawan/Movie-Search-App.git
 ```
 
 ### **2️⃣ Create a Virtual Environment (Optional but Recommended)**
